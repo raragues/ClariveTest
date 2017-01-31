@@ -2,7 +2,7 @@
 
 There are two files (two java classes): Prueba and PruebaTest
 
-Prueba.java runs the complete exercise. It takes the number field from "http://support.clarive.com/rule/json/test?user=raragues" and calculate the factorial of that number showing it through the console. 
+Prueba.java runs the complete exercise. It takes the number field from "http://support.clarive.com/rule/json/test?user=raragues" and calculates the factorial of that number showing it through the console. 
 
 PruebaTest.java runs 6 test cases explained within the testCasesFactorial() method. 
 
